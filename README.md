@@ -11,3 +11,10 @@ like web apps or Mobile applications.
 
 This repository hosts Python-based web scraping files (.ipynb), built with libraries such as BeautifulSoup and Selenium.
 Its purpose is to provide an out-of-the-box solution for scraping websites and extracting useful information. 
+
+### Work Details:
+
+Slno. |Project Name | Project Status | Project Link |
+------------- | ------------- | ------------- | ------------- |
+1             |Dictionary Scraping     | completed    |    <a href = "./blob/main/Dictionary.ipynb">click   </a>|
+2             |Oscar Winner Scraping     | completed     |               |
