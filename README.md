@@ -17,4 +17,4 @@ Its purpose is to provide an out-of-the-box solution for scraping websites and e
 Slno. |Project Name | Project Status | Project Link |
 ------------- | ------------- | ------------- | ------------- |
 1             |Dictionary Scraping     | completed    |    <a href = "./Dictionary.ipynb">click   </a>|
-2             |Oscar Winner Scraping     | completed     |   <a href = "./Dictionary.ipynb">click   </a>            |
+2             |Oscar Winner Scraping     | completed     |   <a href = "./Oscar Winner List.ipynb">click   </a>            |
