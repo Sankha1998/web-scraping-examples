@@ -17,4 +17,6 @@ Slno. |Project Name | Project Status | Project Link |
 ------------- | ------------- | ------------- | ------------- |
 1             |Dictionary Scraping     | completed    |    <a href = "./Dictionary.ipynb">click   </a>|
 2             |Oscar Winner Scraping     | completed     |   <a href = "./Oscar Winner List.ipynb">click   </a>            |
-3             |European Football League Standings     | completed     |   <a href = "./European Football League Standings.ipynb">click   </a>            |
+3             |European Football League Standings  | completed | <a href = "./European Football League Standings.ipynb">click </a> |
+4             |IMDB Top 250 Movies  | completed | <a href = "./IMDB Top 250 Movies.ipynb">click </a> |
+
